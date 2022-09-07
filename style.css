@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/2a/49/0d/2a490da2f2dd2780b026793ce6539c5f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#a76339 ;
+   
+}
+p{
+    font-size: 30px;
+    color: #55321d;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h2{
+    text-align: right;
+    color: black;
+}
+h3{
+     font-size: 30px;
+     color: #68472d;
+}
+table{
+    font-size: 30px;
+}
+.fixed{
+    height: 50px;
+    width: 400px;
+    position: fixed;
+    bottom: 200px;
+    right: 20px;
+}
+.absolute {
+    height: 50px;
+    width: 400px;
+    position: fixed;
+    bottom: 450px;
+    right: 90px;
+}
+.relative {
+    height: 50px;
+    width: 400px;
+    position: fixed;
+    bottom: 450px;
+    left: 140px;
+}
